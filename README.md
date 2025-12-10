@@ -26,13 +26,11 @@ A virtual network setup using OPNsense, multiple VLANs, routing, NAT, and firewa
 Goal: understand network segmentation, packet flow, firewall design, and logging.  
 *Repository will include configuration files, diagrams, and documentation.*
 
-### 🔹 CS50 – Introduction to Computer Science  
-Exercises and projects from Harvard's CS50 course.  
-Focus areas: C programming, algorithms, memory, debugging, and basic systems knowledge.
+### 🔹 Active-Directory-Homelab
+A virtual Windows domain environment with OPNsense, VLANs, Group Policy, DNS/DHCP, and domain-joined clients — built to explore identity management, network segmentation, and Windows administration.
 
-### 🔹 TryHackMe – Linux & Networking Fundamentals  
-Notes, commands, and small exercises based on TryHackMe labs.  
-Focus: Linux basics, network troubleshooting, and introductory security concepts.
+### 🔹 Linux-Hardening Project
+A hardened Linux environment focused on system security, service minimization, mandatory access controls, logging, and attack-surface reduction — built to practice real-world defensive administration.
 
 ---
 
